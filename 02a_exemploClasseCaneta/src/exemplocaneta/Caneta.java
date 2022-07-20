@@ -5,7 +5,7 @@ public class Caneta {
 	String cor = "Azul";		//Características/Atributos de classe.
 	double ponta = 0.8;			//Características/Atributos de classe.
 	int carga = 100;			//Características/Atributos de classe.
-	boolean tampada = false;	//Características/Atributos de classe.
+	boolean tampada = true;	//Características/Atributos de classe.
 	
 	//Todas as características ditam o estado atual de um objeto instanciado, o que pode mudar
 	//conforme a execução de um programa.
