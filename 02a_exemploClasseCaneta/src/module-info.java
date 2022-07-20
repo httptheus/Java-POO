@@ -1,0 +1,2 @@
+module a02exemploCaneta {
+}
