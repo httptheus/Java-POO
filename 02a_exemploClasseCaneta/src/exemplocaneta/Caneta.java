@@ -7,6 +7,9 @@ public class Caneta {
 	int carga = 100;			//Características/Atributos de classe.
 	boolean tampada = false;	//Características/Atributos de classe.
 	
+	//Todas as características ditam o estado atual de um objeto instanciado, o que pode mudar
+	//conforme a execução de um programa.
+	
 	public boolean escrever() { //Ações de objeto (método)
 		if (tampada == true ) {
 			System.out.println("A caneta de modelo " + modelo + " de cor " + cor + " está escrevendo.");

@@ -7,7 +7,7 @@ public class Main {
 		Caneta caneta1 = new Caneta(); //Criando uma instância de objeto da classe Caneta.
 									   //caneta1 é uma variável do tipo Caneta recebendo as propriedades da classe 'Caneta'.	
 		
-		caneta1.escrever(); //O método escrever da instância é chamado. Retornará 'false' pois o atributo tampada está setado como 'false'
+		caneta1.escrever(); //O método escrever da instância é chamado. Retornará 'false', pois o atributo tampada está setado como 'false'
 							//o que implicará que o teste lógico do método retornará o resultado de falso.
 	}
 
