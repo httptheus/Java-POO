@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01b_olaMundo/src"/>
+	<classpathentry kind="src" path="02a_exemploClasseCaneta/src"/>
+	<classpathentry kind="src" path="02b_exemploClasseCaneta/src"/>
+	<classpathentry kind="output" path="02b_exemploClasseCaneta/bin"/>
+</classpath>
